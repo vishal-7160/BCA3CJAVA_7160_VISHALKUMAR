@@ -33,7 +33,6 @@ public class inter{
 		animal cat = new cat();
 		
 		System.out.println("dog:");
-		dog.makesound();
 		dog.eat();
 		
 		System.out.println("\ncat:");
